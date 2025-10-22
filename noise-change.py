@@ -152,3 +152,4 @@ if __name__ == "__main__":
     output_dir = output_dir.replace('\\', '/')
 
     batch_process_audio(input_dir, output_dir, volume_multiplier)
+
